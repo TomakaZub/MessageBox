@@ -1,2 +1,2 @@
 # MessageBox
-Message box - inspirée des standards des réseaux sociaux en 2020
+Message box Project - inspiré des standards des réseaux sociaux en 2020
