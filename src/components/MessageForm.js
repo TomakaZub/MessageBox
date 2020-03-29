@@ -27,7 +27,7 @@ const MessageForm = ({ handleSubmit, handleChange, values, errors, user }) => {
           type='submit'
           disabled={values.message.length > 280 || values.message.length === 0}
         >
-          Tweeter
+          Publier
         </button>
       </footer>
     </form>
